@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Valerie Menna
+description:    "My Path to My Present"
+baseurl:        "/valerie-ma"
+url:            "https://valerie-ma.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Valerie Menna
+  url:          https://valerie-ma.github.io
+  email:        vfabbrim@gmail.com
 
 # Build settings
 markdown:       kramdown
