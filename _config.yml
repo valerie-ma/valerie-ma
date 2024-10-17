@@ -1,7 +1,6 @@
 # Site settings
 title:          Valerie Menna
 description:    "My Path to My Present"
-baseurl:        "/valerie-ma"
 url:            "https://valerie-ma.github.io"
 
 # Google Analytics
